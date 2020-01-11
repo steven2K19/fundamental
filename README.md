@@ -7,4 +7,4 @@ c. TTM financial by aggregate recent 4 quarters data
 d. Basic share data for each fiscal year end and recent fiscal quarter end
 e. price data for each fiscal year end and recent fiscal quarter end
 
-![]github.jpg
+![ ]github.jpg
