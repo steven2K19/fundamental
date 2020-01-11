@@ -1,0 +1,7 @@
+numpy
+pandas
+yfinance
+datetime
+lxml
+ssl
+pandas_market_calendars
