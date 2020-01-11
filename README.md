@@ -24,6 +24,7 @@ masterdf   # dataframe output
 ```
 
 ## Limitation
+- It takes about 10 minutes to create dataframe for 100 stocks. 
 - financials are not available from yfinance scraping. 
 - slow internet connection would lead scraping error and the program will auto try 3 times. 
 
