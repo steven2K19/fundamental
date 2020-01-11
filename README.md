@@ -19,8 +19,10 @@ Holding section show the full list of component
 ## Usage
 ```
 from fundamental import get_df_list
+
 symlist=['GOOG','MSFT','FB'] 
 get_df_list(symlist)        
+
 masterdf                  # name of output dataframe
 ```
 
