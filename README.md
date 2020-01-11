@@ -18,7 +18,7 @@ Holding section show the full list of component
 
 ## Usage
 ```
-# pip install https://github.com/steven2K19/fundamental.git
+# pip install git+https://github.com/steven2K19/fundamental.git@master/fundamental.py
 
 from fundamental import get_df_list
 
