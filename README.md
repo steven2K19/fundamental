@@ -22,8 +22,8 @@ Holding section show the full list of component
 
 from fundamental import get_df_list
 
-symlist=['GOOG','MSFT','FB'] 
-get_df_list(symlist)        
+symlist = ['GOOG','MSFT','FB'] 
+df = get_df_list(symlist)        
 
 masterdf                  # name of output dataframe
 
