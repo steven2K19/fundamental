@@ -12,9 +12,8 @@ The library is primarily based on yfinance package. fundamental requires only li
 - price data for each fiscal year end and recent fiscal quarter end
 
 ## Ticker source example
+https://www.ishares.com/us/products/239522/ishares-us-technology-etf
 Holding section show the full list of component
-### https://www.ishares.com/us/products/239522/ishares-us-technology-etf
-
 
 ## Usage
 ```
