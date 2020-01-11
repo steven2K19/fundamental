@@ -2,6 +2,8 @@
 It is a Python 3 library for generating stock fundamental data through YahooFinance.
 The library is primarily based on yfinance package. fundamental requires only list of tickers input from the user and easily generate dataframe for fundamental ratio analysis, relative value ratio analysis and industry relative analysis.
 
+![github](https://user-images.githubusercontent.com/46503526/72200258-4bddb500-3415-11ea-99b2-cde974a7031f.jpg)
+
 ## Data inclusion
 - financials for recent 3 years. (income statement, balance sheet, cash flow statement)
 - calendar year end financials for comparision.
@@ -23,3 +25,4 @@ masterdf   # dataframe output
 ## Limitation
 - financials are not available from yfinance scraping. 
 - slow internet connection would lead scraping error and the program will auto try 3 times. 
+
