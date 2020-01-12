@@ -15,7 +15,8 @@ The library is primarily based on yfinance package. fundamental requires only li
 ## Ticker source example
 https://www.ishares.com/us/products/239522/ishares-us-technology-etf
 
-Holding section show the full list of component
+- Holding section show the full list of component
+- It takes about 10 minutes to create dataframe for 100 stocks. 
 
 ## Usage
 ```
@@ -27,7 +28,6 @@ df = get_df_list(symlist)
 ```
 
 ## Limitation
-- It takes about 10 minutes to create dataframe for 100 stocks. 
 - financials are not available from yfinance scraping. 
 - slow internet connection would lead scraping error and the program will auto try 3 times. 
 
