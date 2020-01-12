@@ -18,15 +18,10 @@ Holding section show the full list of component
 
 ## Usage
 ```
-# https://pypi.org/project/fundamental/
-# pip install fundamental
-
-from fundamental import get_df_list
+# down load the py file in the folder
 
 symlist = ['GOOG','MSFT','FB'] 
 df = get_df_list(symlist)        
-
-masterdf                  # name of output dataframe
 
 ```
 
