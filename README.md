@@ -7,16 +7,15 @@ The library is primarily based on yfinance package. fundamental requires only li
 
 ## Data inclusion
 - financials for recent 3 years. (income statement, balance sheet, cash flow statement)
-- calendar year end financials for comparision.
-- TTM financial by aggregate recent 4 quarters data
-- Basic share data for each fiscal year end and recent fiscal quarter end
-- price data for each fiscal year end and recent fiscal quarter end
+- calendar year end financials prorated by months
+- Trailing twelve months financial by aggregate recent 4 quarters
+- Basic share and price for each fiscal year end and recent fiscal quarter end
 
 ## Ticker source example
 https://www.ishares.com/us/products/239522/ishares-us-technology-etf
 
 - Holding section show the full list of component
-- It takes about 10 minutes to create dataframe for 100 stocks. 
+- It takes about 10 minutes to create a dataframe for 100 stocks. 
 
 ## Usage
 ```
