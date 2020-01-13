@@ -19,10 +19,12 @@ https://www.ishares.com/us/products/239522/ishares-us-technology-etf
 
 ## Usage
 ```
-# down load the py file in the folder
+# pip install fundamental
+
+from fundamental import fundamental
 
 symlist = ['GOOG','MSFT','FB'] 
-df = get_df_list(symlist)        
+df = fundamental.get_df_list(symlist)        
 
 ```
 
