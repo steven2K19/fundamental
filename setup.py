@@ -6,7 +6,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 setuptools.setup(
    name='fundamental',
-   version='0.1.1.15',
+   version='0.1.1.18',
    author='Steven Wang',
    author_email='steven.wang0619@gmail.com',
    description='Data frame downloader for fundamental financial',
