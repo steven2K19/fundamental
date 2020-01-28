@@ -10,11 +10,6 @@ The library is primarily based on yfinance package. fundamental requires only li
 - calendar year end financials prorated by months
 - Trailing twelve months financial by aggregate recent 4 quarters
 - Basic share and price for each fiscal year end and recent fiscal quarter end
-
-## Ticker source example
-https://www.ishares.com/us/products/239522/ishares-us-technology-etf
-
-- Holding section show the full list of component
 - It takes about 10 minutes to create a dataframe for 100 stocks. 
 
 ## Usage
@@ -29,6 +24,5 @@ df = fundamental.get_df_list(symlist)
 ```
 
 ## Limitation
-- financials are not available from yfinance scraping. 
 - slow internet connection would lead scraping error and the program will auto try 3 times. 
 
