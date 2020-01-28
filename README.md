@@ -25,7 +25,7 @@ It can be used for fundamental ratio analysis, relative value ratio analysis and
 
 from fundamental import fundamental
 
-symlist = ['GOOG','MSFT','FB'] 
+symlist = ['MSFT','GOOG','FB'] 
 df = fundamental.get_df_list(symlist)        
 
 ```
