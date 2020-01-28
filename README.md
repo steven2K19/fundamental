@@ -1,7 +1,12 @@
 # fundamental 
 ## Dataframe for fundamental financials of multiple stocks
 It is a Python 3 library for generating list of stocks' fundamental data through YahooFinance.
-The library is primarily based on yfinance package. fundamental requires only list of tickers input from the user and easily generate dataframe for fundamental ratio analysis, relative value ratio analysis and industry relative analysis.
+
+The library is primarily based on yfinance package. 
+
+fundamental requires list of tickers input from the user and generate dataframe of fundamentals.
+
+It can be used for fundamental ratio analysis, relative value ratio analysis and industry relative analysis.
 
 ![github](https://user-images.githubusercontent.com/46503526/72200258-4bddb500-3415-11ea-99b2-cde974a7031f.jpg)
 
