@@ -12,6 +12,8 @@ The library is primarily based on yfinance package. fundamental requires only li
 - Basic share and price for each fiscal year end and recent fiscal quarter end
 - It takes about 10 minutes to create a dataframe for 100 stocks. 
 
+![demo](https://user-images.githubusercontent.com/46503526/73229302-425b8900-4147-11ea-8c44-45d665d3599f.PNG)
+
 ## Usage
 ```
 # pip install fundamental
