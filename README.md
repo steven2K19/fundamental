@@ -32,4 +32,4 @@ df = fundamental.get_df_list(symlist)
 
 ## Limitation
 - slow internet connection would lead scraping error and the program will auto try 3 times. 
-
+- it does not work with apple computer
